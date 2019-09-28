@@ -1,23 +1,6 @@
-# python-katas
-Practice Katas in Python 3.6
+# azure-functions-python
 
-Katas are a form of [Deliberate Practice](http://codingdojo.org/DeliberatePractice/)
+Azure Functions using Visual Studio Code + Azure Functions Plugin in Python
 
-# katas
-
-* [bowling](https://github.com/DEV3L/python-katas/tree/master/kata/bowling)
-* [fizz buzz](https://github.com/DEV3L/python-katas/tree/master/kata/fizz_buzz)
-* [game of life](https://github.com/DEV3L/python-katas/tree/master/kata/game_of_life)
-* [hello world](https://github.com/DEV3L/python-katas/tree/master/kata/hello_world)
-* [mine sweeper](https://github.com/DEV3L/python-katas/tree/master/kata/mine_sweeper)
-* [parse string time](https://github.com/DEV3L/python-katas/tree/master/kata/parse_string_time)
-* [programming 101](https://github.com/DEV3L/python-katas/tree/master/kata/programming_101)
-
-
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-kata`
-3. Commit your changes: `git commit -am 'Add some kata template'`
-4. Push to the branch: `git push origin my-kata`
-5. Submit a pull request :D
+Example source code used as reference for the blog:
+[Serverless Pub/Sub using Azure EventGrid and Functions in Python](https://dev.to/dev3l/serverless-pub-sub-using-azure-eventgrid-and-functions-in-python-48jd)
